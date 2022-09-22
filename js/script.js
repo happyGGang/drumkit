@@ -9,16 +9,16 @@
     return document.querySelectorAll(target)
   }
 
-  const soundsRoot = 'assets/sounds/'
+  const soundsRoot = '/assets/sounds/'
   const drumSounds = [
-    { key: 81, sound: 'clap.wav' },
-    { key: 87, sound: 'crash.wav' },
-    { key: 69, sound: 'hihat.wav' },
-    { key: 65, sound: 'kick.wav' },
-    { key: 83, sound: 'openhat.wav' },
-    { key: 68, sound: 'ride.wav' },
-    { key: 90, sound: 'shaker.wav' },
-    { key: 88, sound: 'snare.wav' },
-    { key: 67, sound: 'tom.wav' },
+    { key: 81, sound: '고양이효과음1.wav' },
+    { key: 87, sound: '고양이효과음2.wav' },
+    { key: 69, sound: '고양이효과음3.wav' },
+    { key: 65, sound: '고양이효과음4.wav' },
+    { key: 83, sound: '고양이효과음5.wav' },
+    { key: 68, sound: '고양이효과음6.wav' },
+    { key: 90, sound: '고양이효과음7.wav' },
+    { key: 88, sound: '고양이효과음8.wav' },
+    { key: 67, sound: '고양이효과음9.wav' },
   ]
 })()
